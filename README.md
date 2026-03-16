@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I am
 
-<!--
-**mahi24326/mahi24326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Electronics and commmunications engineering student, interested in software/systems programming and VLSI.
 
-Here are some ideas to get you started:
+About me-
+1. Pursuing B.Tech at Indraprastha Institute of Information Technology, Delhi
+2. Worked on projects involving backend, frontend, systems and embedded programming
+3. Experience working with C++, Python and Java
+4. Currently learning Software development, Analog and Digital Electronics, Computer Architecture and Embedded Systems
+5. Love implementing ideas to deepen my knowledge of technical concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical skills-
+1. Languages: C++, Python, Java, Verilog
+2. Core CS: Data Structures and Algorithms, Object Oriented Programming
+3. Electronics: Analog and Digital Electronics, Communication Systems, Circuit Design, FPGA (ZedBoard, Zybo), Computer Architecture
+4. Tools:  Git, GitHub, VS Code, MySQL Workbench, LTSpice, Vivado, KiCad, IntelliJ
+
+I enjoy competitive programming, UI/UX Design, public speaking and dance as hobbies.
