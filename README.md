@@ -17,7 +17,7 @@ Electronics: Digital Electronics, Analog Electronics, Communication Systems, FPG
 Tools: Git, GitHub, VS Code, IntelliJ, MySQL Workbench, Vivado, LTSpice, KiCad
 
 ### Selected Projects
-- **Trackway** – 
+- **Trackway** 
 - **RISC-V Assembler and Simulator** 
 - **University ERP**
   
