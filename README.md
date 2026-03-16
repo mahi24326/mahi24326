@@ -1,6 +1,6 @@
 ## Hi, I am
 
-An Electronics and commmunications engineering student, interested in software/systems programming and VLSI.
+An Electronics and Commmunications Engineering student, interested in software/systems programming and VLSI.
 
 About me-
 1. Pursuing B.Tech at Indraprastha Institute of Information Technology, Delhi
