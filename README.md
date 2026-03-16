@@ -1,6 +1,6 @@
 ## Mahi Yadav
 
-ECE undergraduate at IIIT Delhi with a primary interest in software engineering and systems programming, and experience working across software and hardware systems.
+ECE undergraduate at IIIT Delhi with a primary interest in software engineering and VLSI, with experience working across software and hardware systems.
 
 ### Current Focus
 - Backend development and software design
