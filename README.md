@@ -1,18 +1,25 @@
-## Hi, I am
+## Mahi Yadav
 
-An Electronics and Commmunications Engineering student, interested in software/systems programming and VLSI.
+ECE undergraduate at IIIT Delhi with a primary interest in software engineering and systems programming, and experience working across software and hardware systems.
 
-About me-
-1. Pursuing B.Tech at Indraprastha Institute of Information Technology, Delhi
-2. Worked on projects involving backend, frontend, systems and embedded programming
-3. Experience working with C++, Python and Java
-4. Currently learning Software development, Analog and Digital Electronics, Computer Architecture and Embedded Systems
-5. Love implementing ideas to deepen my knowledge of technical concepts
+### Current Focus
+- Systems programming and low-level software development
+- Backend development and software design
+- Computer architecture and embedded systems
+- Strengthening data structures and algorithms
 
-Technical skills-
-1. Languages: C++, Python, Java, Verilog
-2. Core CS: Data Structures and Algorithms, Object Oriented Programming
-3. Electronics: Analog and Digital Electronics, Communication Systems, Circuit Design, FPGA (ZedBoard, Zybo), Computer Architecture
-4. Tools:  Git, GitHub, VS Code, MySQL Workbench, LTSpice, Vivado, KiCad, IntelliJ
+### Technical Skills
 
-I enjoy competitive programming, UI/UX Design, public speaking and dance as hobbies.
+Languages: C++, Python, Java, Verilog  
+Core CS: Data Structures and Algorithms, Object-Oriented Programming  
+Software / Systems: Systems Programming, Computer Architecture, Embedded Systems  
+Electronics: Digital Electronics, Analog Electronics, Communication Systems, FPGA (ZedBoard, Zybo)  
+Tools: Git, GitHub, VS Code, IntelliJ, MySQL Workbench, Vivado, LTSpice, KiCad
+
+### Selected Projects
+- **Trackway** – 
+- **RISC-V Assembler and Simulator** 
+- **University ERP**
+  
+### Links
+LinkedIn: https://www.linkedin.com/in/mahi-yadav-my07/
