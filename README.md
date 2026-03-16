@@ -3,10 +3,10 @@
 ECE undergraduate at IIIT Delhi with a primary interest in software engineering and systems programming, and experience working across software and hardware systems.
 
 ### Current Focus
-- Systems programming and low-level software development
 - Backend development and software design
 - Computer architecture and embedded systems
 - Strengthening data structures and algorithms
+- Systems programming and low-level software development
 
 ### Technical Skills
 
